@@ -1,4 +1,3 @@
-
 USE economy_graph;
 drop table IF EXISTS Summary_2013;
 
