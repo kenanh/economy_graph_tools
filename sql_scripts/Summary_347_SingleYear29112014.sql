@@ -1,5 +1,5 @@
 
-#USE economy_graph;
+USE economy_graph;
 drop table IF EXISTS Summary_2013;
 
 #Create table to store the final results. There will be only one row stored in the final table
